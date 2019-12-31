@@ -20,7 +20,7 @@ Within the repository, you will see a set of examples of Multiparty-Audio-Chat-O
 "Multiparty-Audio-Chat-Open-Source-NodeJS-Application"
 Change the directory to the application using command:
 
-`cd Multiparty-Audio-Chat-Open-Source-NodeJS-Application` {{execute}}
+`cd Multiparty-Audio-Chat-Open-Source-NodeJS-Application`{{execute}}
 
 
 
