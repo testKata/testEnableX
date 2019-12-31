@@ -18,12 +18,10 @@ Clone our example repository that contains the set of documentation with the fol
 
 Within the repository, you will see a set of examples of Multiparty-Audio-Chat-Open-Source-NodeJS-Application implementation. You can change the directory to 
 "Multiparty-Audio-Chat-Open-Source-NodeJS-Application"
+Change the directory to the application using command:
 
-'cd Multiparty-Audio-Chat-Open-Source-NodeJS-Application` {{execute}}
+`cd Multiparty-Audio-Chat-Open-Source-NodeJS-Application` {{execute}}
 
-
-
-An example of the current step is `scenario-examples/create-scenario-101/step1.md`{{open}}
 
 
 The JSON file defines the scenario title, the description, steps order, the UI layout and environment. You can find more about the layouts within our scenarios at [katacoda.com/docs/scenarios/layouts](https://katacoda.com/docs/scenarios/layouts) and environments at [katacoda.com/docs/scenarios/environments](https://katacoda.com/docs/scenarios/environments).
