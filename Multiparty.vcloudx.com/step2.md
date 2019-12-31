@@ -6,10 +6,18 @@ Change the file to following :
 
 change the following from your config.js
 
-port  : "4443",                     // FQDN of  your hosting port
-vcxconfig.APP_ID      = "YOUR_APP_ID";  // Enter Your App ID that you received from e-mail
+port  : "4443",  // FQDN of  your hosting port
+
+vcxconfig.APP_ID      = "YOUR_APP_ID"; 
+ // Enter Your App ID that you received from e-mail
+
+vcxconfig.APP_KEY     = "YOUR_APP_KEY"; 
+// Enter Your App Key
 
 
+Run npm install --save to build the project and the build artifacts will be stored in the ./node_modules directory.
 
+`npm install --save`{{execute}}
 
-vcxconfig.APP_KEY     = "YOUR_APP_KEY"; // Enter Your App Key
+Run node server.js inside server folder for starting your Server.
+`node server.js`{{execute}}
