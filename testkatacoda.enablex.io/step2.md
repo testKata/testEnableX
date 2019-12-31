@@ -2,7 +2,7 @@ Before you can run this application by hosting it locally you need to customize 
 
 Change the file to following :
 
-Multiparty-Audio-Chat-Open-Source-NodeJS-Application/server/vcxconfig.js{{open}}
+`Multiparty-Audio-Chat-Open-Source-NodeJS-Application/server/vcxconfig.js`{{open}}
 
 
 vcxconfig.SERViCE = {
