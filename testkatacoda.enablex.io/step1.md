@@ -16,7 +16,11 @@ Clone our example repository that contains the set of documentation with the fol
 
 `git clone https://github.com/EnableX/Multiparty-Audio-Chat-Open-Source-NodeJS-Application.git`{{execute}}
 
-Within the repository, you will see a set of examples of implementing various Katacoda functionality.
+Within the repository, you will see a set of examples of Multiparty-Audio-Chat-Open-Source-NodeJS-Application implementation. You can change the directory to 
+"Multiparty-Audio-Chat-Open-Source-NodeJS-Application"
+
+'cd Multiparty-Audio-Chat-Open-Source-NodeJS-Application` {{execute}}
+
 
 
 An example of the current step is `scenario-examples/create-scenario-101/step1.md`{{open}}
