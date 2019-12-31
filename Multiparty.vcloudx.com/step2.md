@@ -1,0 +1,15 @@
+Before you can run this application by hosting it locally you need to customize server/vcxconfig.js:
+
+Change the file to following :
+
+`Multiparty-Audio-Chat-Open-Source-NodeJS-Application/server/vcxconfig.js`{{open}}
+
+change the following from your config.js
+
+port  : "4443",                     // FQDN of  your hosting port
+vcxconfig.APP_ID      = "YOUR_APP_ID";  // Enter Your App ID that you received from e-mail
+
+
+
+
+vcxconfig.APP_KEY     = "YOUR_APP_KEY"; // Enter Your App Key
