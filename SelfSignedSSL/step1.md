@@ -9,3 +9,7 @@ The first step is to create your RSA Private Key. This key is a 1024 bit RSA key
 
 `openssl genrsa -des3 -out server.key 1024`{{execute}}
 
+Above coomand will ask you for the password and parapharse.
+Please enter and note it down to the safe place 
+as it will be required for the next step
+
