@@ -8,7 +8,7 @@ One unfortunate side-effect of the pass-phrased private key is that Apache will 
 
 Try doing ls at this point:
 
-`ls`{{execute}}
+`ls -ltr`{{execute}}
 
 You should see following files 
 The newly created server.key file has no more passphrase in it.
