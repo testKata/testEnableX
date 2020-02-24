@@ -29,8 +29,12 @@ Change to certs directory
 
 Create and Install certificates 
 
-`openssl req -nodes -new -x509   -keyout katakoda.key -out katakoda.crt   -days 365   -subj '/CN=katakoda.com/O=My Company Name LTD./C=US'; cat katakoda.crt > katakoda.ca-bundle `{{execute}} 
+`openssl req -nodes -new -x509   -keyout katakoda.key -out katakoda.crt   -days 365   -subj '/CN=katakoda.com/O=My Company Name LTD./C=US'; cat katakoda.crt > katakoda.ca-bundle`{{execute}} 
 
+Change back to the main dir
+
+
+`cd ..`{{execute}}
 
 Install node 
 
