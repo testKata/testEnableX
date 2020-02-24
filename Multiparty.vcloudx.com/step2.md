@@ -19,5 +19,29 @@ Run npm install --save to build the project and the build artifacts will be stor
 
 `npm install --save`{{execute}}
 
+Now lets install the Self-Signed Certificates.
+
+Make a directory called certs
+
+`mkdir certs `{{execute}}
+
+Change to certs directory
+
+`cd certs `{{execute}}
+
+Create and Install certificates 
+
+`openssl req -nodes -new -x509   -keyout katakoda.key -out katakoda.crt   -days 365   -subj '/CN=katakoda.com/O=My Company Name LTD./C=US'; cat katakoda.crt > katakoda.ca-bundle `{{execute}} 
+
+
+Install node 
+
+`npm install --save`{{execute}}
+
 Run node server.js inside server folder for starting your Server.
+
+Change to server
+
+`cd  server`{{execute}}
+
 `node server.js`{{execute}}

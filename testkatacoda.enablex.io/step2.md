@@ -10,7 +10,7 @@ vcxconfig.SERViCE = {
   version: "1.0.0",                   // Version [Change optional]
   path: "/v1",                        // Route [Default /v1]
   domain: "katacoda.com",           // FQDN of  your hosting enviornment
-  port  : "4443",                     // FQDN of  your hosting port. You need sudo permission if you want to use standard 443
+  port  : "443",                     // FQDN of  your hosting port. You need sudo permission if you want to use standard 443
   listen_ssl : true                   // SSL on/off key  [ Set always to "true" ]
 };
 
