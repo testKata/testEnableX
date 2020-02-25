@@ -14,6 +14,7 @@ vcxconfig.APP_ID      = "YOUR_APP_ID";
 vcxconfig.APP_KEY     = "YOUR_APP_KEY"; 
 // Enter Your App Key
 
+port  : "443",  // FQDN of  your hosting port
 
 
 
@@ -29,7 +30,7 @@ Change to certs directory
 
 Create and Install certificates 
 
-`openssl req -nodes -new -x509   -keyout katakoda.key -out katakoda.crt   -days 365   -subj '/CN=katakoda.com/O=My Company Name LTD./C=US'; cat katakoda.crt > katakoda.ca-bundle`{{execute}} 
+`openssl req -nodes -new -x509   -keyout example.key -out example.crt   -days 365   -subj '/CN=example.com/O=My Company Name LTD./C=US'; cat example.crt > example.ca-bundle`{{execute}} 
 
 Change back to the main dir
 
