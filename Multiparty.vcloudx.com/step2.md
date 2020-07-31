@@ -4,17 +4,14 @@ Change the file to following :
 
 `Multiparty-Audio-Chat-Open-Source-NodeJS-Application/server/vcxconfig.js`{{open}}
 
-change the following from your config.js
+Add  the following from your config.js
 
-port  : "443",  // FQDN of  your hosting port
 
 vcxconfig.APP_ID      = "YOUR_APP_ID"; 
  // Enter Your App ID that you received from e-mail
 
 vcxconfig.APP_KEY     = "YOUR_APP_KEY"; 
 // Enter Your App Key
-
-port  : "443",  // FQDN of  your hosting port
 
 
 
@@ -44,9 +41,6 @@ Run npm install --save to build the project and the build artifacts will be stor
 
 Run node server.js inside server folder for starting your Server.
 
-Change to server
-
-`cd  server`{{execute}}
 
 `node server.js`{{execute}}
 

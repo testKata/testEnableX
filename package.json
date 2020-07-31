@@ -20,6 +20,7 @@
     "cryptr": "^3.0.0",
     "express-session": "^1.15.6",
     "http-auth": "^3.2.3",
+    "katacoda-cli": "0.0.20",
     "localStorage": "^1.0.3",
     "log4js": "^1.0.1"
   }
