@@ -8,7 +8,7 @@ To see how to configure the outbound number please see :
 
 https://developer.vcloudx.com/voice/how-to/#Add_Phone_Number
 
-<iframe width="560" height="115" src="https://developer.enablex.io/wp-content/uploads/2020/07/AddPhoneToProject.mov" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="115" src="https://developer.vcloudx.com/voice/how-to/#Add_Phone_Number" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Prerequisite:
 
@@ -17,7 +17,7 @@ You can register to get the trial run here: https://portal.enablex.io/cpaas/tria
 2. You will need to configure the phone number you purchased from Enablex.
 You can take a help from here: https://developer.vcloudx.com/voice/how-to/#Add_Phone_Number
 3. You will need to host this application either cloud or local machine.
-We shall do this task... Press Continue
+We shall do this task... click on "Start Scenario" 
 4. Optional, if hosting on local machine, you need to install ngrok from https://ngrok.com/
 
 
