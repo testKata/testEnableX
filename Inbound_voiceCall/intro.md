@@ -6,6 +6,10 @@ From this webpage, you would need to enter from (outbound number) that you would
 
 To see how to configure the outbound number please see :
 
+https://developer.vcloudx.com/voice/how-to/#Add_Phone_Number
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KeJJ34BvA7Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Prerequisite:
 
 1. You will need Enablex Application credentials, app_id and app_key.
