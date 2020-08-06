@@ -2,7 +2,7 @@ Before you can run this application by hosting it locally you need to customize 
 
 Change the file to following :
 
-`Inbound_voiceCall/server/config-outbound.js`{{open}}
+`voice-api-outbound/config-outbound.js`{{open}}
 
 Add  the following from your config.js
 
