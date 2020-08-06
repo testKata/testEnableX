@@ -8,6 +8,6 @@ Clone the example repository that contains the set of documentation with the fol
 
 `git clone https://github.com/EnableX/voice-api-outbound.git `{{execute}}
 
-`cd voice-api-outbound.git `{{execute}}
+`cd voice-api-outbound `{{execute}}
 
 

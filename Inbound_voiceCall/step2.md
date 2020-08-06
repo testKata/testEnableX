@@ -4,7 +4,7 @@ Change the file to following :
 
 voice-api-outbound/config-outbound.js
 
-`vim voice-api-outbound/config-outbound.js`{{execute}}
+`vim config-outbound.js`{{execute}}
 
 Add  the following from your Portal page #(You can quickly click on the Portal tab)
 
