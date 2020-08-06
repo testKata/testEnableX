@@ -15,12 +15,6 @@ Run node server.js inside server folder for starting your Server.
 
 Now you can open browser at :
 
-https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com
+https://[[HOST_SUBDOMAIN]]-3000-[[KATACODA_HOST]].environments.katacoda.com
 
-"environment": {
-    "showdashboard": true,
-    "dashboards": [{"name": "URL", "href": "https://www.katacoda.com"},
-        {"name": "Port :80", "port": 80},
-        {"name": "Placeholder", "href": "https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com"}],
-    "uilayout": "terminal-iframe"
-}
+###Or click on SampleExample  

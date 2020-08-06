@@ -1,5 +1,5 @@
 
-**** This is an Iptional step *****
+**** This is an Iptional step ***
 
 In case you are choosing to run over ngrok you can skip this scenario.
 But if you choose to continue without ngrok please follow these steps 
