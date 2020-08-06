@@ -8,7 +8,7 @@ To see how to configure the outbound number please see :
 
 https://developer.vcloudx.com/voice/how-to/#Add_Phone_Number
 
-<iframe width="560" height="515" src="https://developer.enablex.io/voice/how-to/#Add_Phone_Number" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="115" src="https://developer.enablex.io/wp-content/uploads/2020/07/AddPhoneToProject.mov" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Prerequisite:
 
