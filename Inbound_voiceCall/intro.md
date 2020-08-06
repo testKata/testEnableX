@@ -13,8 +13,11 @@ https://developer.vcloudx.com/voice/how-to/#Add_Phone_Number
 Prerequisite:
 
 1. You will need Enablex Application credentials, app_id and app_key.
+You can register to get the trial run here: https://portal.enablex.io/cpaas/trial-sign-up/
 2. You will need to configure the phone number you purchased from Enablex.
+You can take a help from here: https://developer.vcloudx.com/voice/how-to/#Add_Phone_Number
 3. You will need to host this application either cloud or local machine.
+We shall do this task... Press Continue
 4. Optional, if hosting on local machine, you need to install ngrok from https://ngrok.com/
 
 
