@@ -30,6 +30,10 @@
     }
   },
   "environment": {
+	"showdashboard": true,
+        "dashboards": [
+            {"name": "URL", "href": "https://portal.enablex.io/projects"},
+            {"name": "Placeholder", "href": "https://[[HOST_SUBDOMAIN]]-3000-[[KATACODA_HOST]].environments.katacoda.com", "port": 3000}],
     "uilayout": "editor-terminal"
   },
   "backend": {
