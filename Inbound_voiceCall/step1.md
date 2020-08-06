@@ -19,4 +19,5 @@ Prerequisite:
 Clone the example repository that contains the set of documentation with the following command:
  (you can click on the following to see the commend executed in the shell right!)
 
-`git clone https://github.com/EnableX/Multiparty-Audio-Chat-Open-Source-NodeJS-Application.git`{{execute}} 
+`git clone https://github.com/EnableX/voice-api-outbound.git `{{execute}}
+
