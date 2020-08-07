@@ -5,14 +5,14 @@ The sample uses APP_ID and APP_KEY as enviornment variables that you need to exp
 Copy and paste your APP_ID from Portal->Project
 
 
-'export ENABLEX_APP_ID='{{copy}}
+'export ENABLEX_APP_ID='{{execute no-newline}}
 
 and hit Enter key
 
 Copy and paste your APP_KEY from Portal->Project
 
  
-'export ENABLEX_APP_KEY='{{copy}}
+'export ENABLEX_APP_KEY='{{execute no-newline}}
 and hit Enter key
 
 
