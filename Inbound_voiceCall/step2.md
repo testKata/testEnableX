@@ -1,40 +1,27 @@
 Before you can run this application by hosting it locally you need to customize server/vcxconfig.js:
 
-Change the file to following :
+The sample uses APP_ID and APP_KEY as enviornment variables that you need to export.
 
-voice-api-outbound/config-outbound.js
-
-`vim config-outbound.js`{{execute}}
-
-Add  the following from your Portal page #(You can quickly click on the Portal tab)
-
-* Switch to insert mode by typing `i`{{execute no-newline}}
-
-config.app_id = "YOUR_APP_ID";
- // Enter Your App ID that you received from e-mail
-
-config.app_key = "YOUR_APP_KEY";
-// Enter Your App Ke
+Copy and paste your APP_ID from Portal->Project
 
 
+'export ENABLEX_APP_ID='{{copy}}
 
-Following part of the config is required only if you are running on a server that is unreachable from Voice Server.
-This is usually the case of development enviornment 
+and hit Enter key
 
-config.webhook_port = 3000;
-config.ngrok = true; // If false, user needs to provide ssl certs
+Copy and paste your APP_KEY from Portal->Project
+
+ 
+'export ENABLEX_APP_KEY='{{copy}}
+and hit Enter key
 
 
-If you have a publicly reachable server, you can add it here as a webhook
 
 In this example the webhook would be:  
-config.webhook_host = 'https://[[HOST_SUBDOMAIN]]-3000-[[KATACODA_HOST]].environments.katacoda.com'; // Needs to provide if ngrok = false
+' export PUBLIC_WEBHOOK_HOST = 'https://[[HOST_SUBDOMAIN]]-3000-[[KATACODA_HOST]].environments.katacoda.com''{{execute}} // Needs to provide if ngrok = false
 
 Since the webhook uses https protocol, you would need to install the certs.
 
 
-* Once finished, press ESC (`^ESC`{{execute ctrl-seq}}) to switch back to normal mode
-
-* To exit, type `:q!`{{execute}}
 
 
